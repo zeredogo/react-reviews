@@ -250,3 +250,12 @@ main {
   background: var(--clr-primary-5);
   color: var(--clr-primary-1);
 }
+
+.footer{
+  text-align: center;
+  border: none;
+  padding: 20px;
+  margin-top: 20px;
+  margin-bottom: 0;
+
+}
